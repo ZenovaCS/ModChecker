@@ -128,3 +128,4 @@ emotewheel$(Cheat)Emote Wheel v{0}
 drowsiiiheadmodfications$Drowsiii Head Modifications
 y u lookin in here weirdo$(Cheat)Malachi Menu Reborn v{0}
 fys epic face tracking shit mod$FYS Eye Tracking
+ghosteliteuser$Ghost Elite Menu
