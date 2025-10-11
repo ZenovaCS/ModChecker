@@ -55,7 +55,8 @@ dogs$Dogs2?
 dogs mod menu (this shit is legal, mkay?)$Dogs but horrible
 fys cool magic mod$FYS Magic Mod
 bananaphone$BananaPhone
-colour$Custom Cosmetics
+colour$Custom Cosmetics!
+monkecosmetics:$Custom Cosmetics
 chainedtogether$Chained Together
 shinygorilla$ShinyUtils
 blueyyy$Blueyyy WASD
