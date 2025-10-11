@@ -134,3 +134,4 @@ ghosteliteuser$Ghost Elite Menu
 dark$Dark (idk what this is)
 vantamenu$(Cheat)Vanta
 vantamenu[owner]$(Cheat)Vanta Owner
+hassexmod$[<color=#bf54e3>sex mod (wtf is wrong with you)</color>]
