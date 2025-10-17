@@ -1,4 +1,5 @@
 odcam$Orion Drift Camera
+ic$Input Camera
 spankyui$SpankyUI
 gp$GorillaPad
 hp_left$(Dev)HoldablePad
