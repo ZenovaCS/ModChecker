@@ -1,4 +1,5 @@
 odcam$[<color=#00FF00>ODC</color>]
+ic$[<color=#00FF00>IC</color>]
 spankyui$[<color=#00FF00>SUI</color>]
 gp$[<color=#00FF00>GP</color>]
 hp_left$[<color=#FFFFFF>HP</color>]
