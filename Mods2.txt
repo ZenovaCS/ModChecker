@@ -137,3 +137,4 @@ vantamenu$(Cheat)Vanta
 vantamenu[owner]$(Cheat)Vanta Owner
 hassexmod$<color=#bf54e3>sex mod (wtf is wrong with you)</color>
 haslegmod$Leg Mod
+nexussize$(Cheat)Prime (shit menu)
