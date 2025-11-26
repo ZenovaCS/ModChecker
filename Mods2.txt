@@ -139,3 +139,6 @@ hassexmod$<color=#bf54e3>sex mod (wtf is wrong with you)</color>
 haslegmod$Leg Mod
 nexussize$(Cheat)Prime (shit menu)
 atlas$(Cheat)Atlas
+currentsong$GorillaMedia
+xyferuser$(Cheat)Xyfer
+lolmenu$(Cheat)LOL
