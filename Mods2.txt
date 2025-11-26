@@ -28,7 +28,7 @@ bp15's lobby gui$(BP15)bp15s lobby GUI
 disconnect mod$(BP15)Disconnect Mod
 gorillaplayeriddisplay$(BP15)GorillaPlayerIDDisplay
 pcneckmovement$(BP15)PCNeckMovement
-fusioned$DecalFree Fusioned
+fusioned$DecalFrees Fusioned
 equippedweapon$Weapon Pack v{0}
 grateversion$Grate v{0}
 msp$MonkeSmartPhone
