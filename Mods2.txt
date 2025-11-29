@@ -4,12 +4,12 @@ spankyui$SpankyUI
 gp$GorillaPad
 hp_left$(Dev)HoldablePad
 gc$(Dev)GorillaCraft v{0}
-gs$(Dev)GorillaShirts [VERY OLD]
+gs$(Dev)GorillaShirts v[0} [VERY OLD]
 shirtversion$(Dev)GorillaShrits v{0} [OLD]
 gorillashirts$(Dev)GorillaShirts
 infowatchversion$(Dev)GorillaInfoWatch v{0} [OLD]
 infowatch$(Dev)GorillaInfoWatch
-github.com/zlothy29iq/roomutils-iw$(Zlothy)RoomUtils [GorillaInfoWatch Addon]
+github.com/zlothy29iq/roomutils-iw$(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
 github.com/zlothy29iq/zloth-recroomrig$(Zlothy)RecRoomRig v{0}
 github.com/zlothy29iq/monkeclick$(Zlothy)MonkeClick v{0}
 github.com/zlothy29iq/monkeclick-ci$(ZLothy)MonkeClick v{0} [ComputerInterface]
