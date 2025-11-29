@@ -142,3 +142,4 @@ atlas$(Cheat)Atlas
 currentsong$GorillaMedia
 xyferuser$(Cheat)Xyfer
 lolmenu$(Cheat)LOL
+lozarosmod$(Cheat)Lozaro
