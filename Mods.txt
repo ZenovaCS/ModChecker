@@ -1,7 +1,7 @@
 odcam$[<color=#00FF00>ODC</color>]
 ic$[<color=#00FF00>IC</color> v{0}]
 spankyui$[<color=#00FF00>SUI</color>]
-gp$[<color=#00FF00>GP</color>]
+gp$[<color=#00FF00>GP</color> v{0}]
 hp_left$[<color=#FFFFFF>HP</color>]
 gc$[<color=#FFFFFF>GC</color> v{0}]
 gs$[<color=#505050>GSH!!</color> v{0}]
