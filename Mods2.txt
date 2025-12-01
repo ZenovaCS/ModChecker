@@ -143,3 +143,7 @@ currentsong$GorillaMedia
 xyferuser$(Cheat)Xyfer
 lolmenu$(Cheat)LOL
 lozarosmod$(Cheat)Lozaro
+elixir$(Cheat)Elixir
+profilepictures$Profile Pictures
+bingusnametags++$Bingus Nametags++ v{0}
+sentinel$(Cheat)Sentinel
