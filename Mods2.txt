@@ -147,3 +147,4 @@ elixir$(Cheat)Elixir
 profilepictures$Profile Pictures
 bingusnametags++$Bingus Nametags++ v{0}
 sentinel$(Cheat)Sentinel
+stick$(Cheat)Vortex Emotes
