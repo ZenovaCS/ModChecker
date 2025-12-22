@@ -1,29 +1,29 @@
 odcam$Orion Drift Camera
-ic$Input Camera
+ic$Input Camera v{0}
 spankyui$SpankyUI
-gp$GorillaPad
+gp$GorillaPad v{0}
 hp_left$(Dev)HoldablePad
 gc$(Dev)GorillaCraft v{0}
 gs$(Dev)GorillaShirts v[0} [VERY OLD]
 shirtversion$(Dev)GorillaShrits v{0} [OLD]
-gorillashirts$(Dev)GorillaShirts
+gorillashirts$(Dev)GorillaShirts v{0}
 infowatchversion$(Dev)GorillaInfoWatch v{0} [OLD]
-infowatch$(Dev)GorillaInfoWatch
+infowatch$(Dev)GorillaInfoWatch v{0}
 github.com/zlothy29iq/roomutils-iw$(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
 github.com/zlothy29iq/zloth-recroomrig$(Zlothy)RecRoomRig v{0}
 github.com/zlothy29iq/monkeclick$(Zlothy)MonkeClick v{0}
 github.com/zlothy29iq/monkeclick-ci$(ZLothy)MonkeClick v{0} [ComputerInterface]
 github.com/zlothy29iq/toomuchinfo$(Zlothy)TooMuchInfo v{0}
 github.com/zlothy29iq/monkerealism$(Zlothy)MonkeRealism v{0}
-github.com/zlothy29iq/gorillamediadisplay$(Zlothy)GorillaMediaDisplay
+github.com/zlothy29iq/gorillamediadisplay$(Zlothy)GorillaMediaDisplay v{0}
 dingus$(Zlothy)Networked Maxwell
-customskin$(Dev)Custom Skin
-gpronouns$(Dev)Gorilla Pronouns
-gfaces$(Dev)GorillaFaces
+customskin$(Dev)Custom Skin v{0}
+gpronouns$(Dev)Gorilla Pronouns v{0}
+gfaces$(Dev)GorillaFaces v{0}
 hasgface$GorillaFaces2?
-monkephone$(Dev)MonkePhone
+monkephone$(Dev)MonkePhone v{0}
 pmversion$(Dev)PlayerModel v{0}
-gtrials$GorillaTrials
+gtrials$GorillaTrials v{0}
 bp15's lobby gui$(BP15)bp15s lobby GUI
 disconnect mod$(BP15)Disconnect Mod
 gorillaplayeriddisplay$(BP15)GorillaPlayerIDDisplay
