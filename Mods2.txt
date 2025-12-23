@@ -68,7 +68,7 @@ body estimation$FullBody Estimation
 simpleboardsversion$SimpleBoards v{0}
 gorillanametags$(Han)GorillaNametags
 nametagsplusplus$(Han)Nametags++ v{0}
-fps-nametags for zlothy$(Han)FPS-Nametags for Zlothy
+fps-nametags for zlothy$(Han)FPS-Nametags for Zlothy v{0}
 a mod that has to do with network stuff in grate (it won't work for most people)$(Han)Grate Admin Abuser
 hamburbur$Hamburbur Menu
 custom property setter$CustomPropertySetter
