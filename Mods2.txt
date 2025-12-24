@@ -122,7 +122,7 @@ flux$(Cheat)Flux
 elux$(Cheat)Elux
 serum$(Cheat)Serum
 cokecosmetics$(Cheat)Horrible Cosmetx
-mistuser$(Cheat)Mist
+mistuser$(Cheat)Mist/Spectral
 untitled$(Cheat)Untitled
 silliness$(Cheat)Silliness
 eyerock reborn$(Cheat)Eyerock Reborn
