@@ -149,3 +149,4 @@ bingusnametags++$Bingus Nametags++ v{0}
 sentinel$(Cheat)Sentinel
 stick$(Cheat)Vortex Emotes
 skidded menu$(Cheat) Skidded Menu
+ping$Vael Checker
