@@ -84,8 +84,10 @@ gorillashop$GorillaShop v{0}
 gorillatorsoestimator$GorillaTorsoEstimator
 gorilla track 2.3.0$Gorilla Track v2.3.0
 gorilla track packed$Gorilla Track Packed
-boy do i love information$Boy do I love information
-dtaoi$Damn thats a lot of information
+boy do i love information$(Han)Boy do I love information
+boydoiloveinformation public$(Han)Boy do I love information Public
+dtaoi$(Zlothy)Damn thats a lot of information
+dtasloi$Damn thats a shit load of information
 pineappleterminal$Pineapple Terminal
 cody likes burritos$ShutUpMonkeys
 fallmonke_prop$FallMonke
