@@ -153,3 +153,5 @@ sentinel$(Cheat)Sentinel
 stick$(Cheat)Vortex Emotes
 skidded menu$(Cheat) Skidded Menu
 ping$Vael Checker
+mrbg0hkghncyy4A1zcf7ahg78$(Cheat)Some Sort of Cheat Menu
+euphoric$(Cheat)Euphoric
