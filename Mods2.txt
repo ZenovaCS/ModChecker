@@ -4,10 +4,11 @@ spankyui|SpankyUI
 gp|GorillaPad v{0}
 hp_left|(Dev)HoldablePad
 gc|(Dev)GorillaCraft v{0}
-gs|(Dev)GorillaShirts v[0} [VERY OLD]
-shirtversion|(Dev)GorillaShrits v{0} [OLD]
-gorillashirts|(Dev)GorillaShirts v{0}
-infowatchversion|(Dev)GorillaInfoWatch v{0} [OLD]
+gs|(Dev)GorillaShirts v[0} [EXTREMELY OUTDATED]
+shirtversion|(Dev)GorillaShrits v{0} [VERY OUTDATED]
+gorillashirts|(Dev)GorillaShirts v{0} [OUTDATED]
+gorillashirtsfeb26|(Dev)GorillaShirts v{0}
+infowatchversion|(Dev)GorillaInfoWatch v{0} [OUTDATED]
 infowatch|(Dev)GorillaInfoWatch v{0}
 gorillachatbox|(Dev)GorillaChatBox
 github.com/zlothy29iq/roomutils-iw|(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
