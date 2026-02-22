@@ -133,7 +133,7 @@ elysorpaid|(Cheat)Elysor Paid
 evicteduser|(Cheat)Evicted
 emotewheel|(Cheat)Emote Wheel v{0}
 drowsiiiheadmodfications|Drowsiii Head Modifications
-y u lookin in here weirdo|(Cheat)Malachi Menu Reborn
+y u lookin in here wei|(Cheat)Malachi Menu Reborn
 fys epic face tracking shit mod|FYS Eye Tracking
 ghosteliteuser|Ghost Elite Menu
 dark|Dark (idk what this is)
