@@ -125,7 +125,8 @@ flux;(Cheat)Flux
 elux;(Cheat)Elux
 serum;(Cheat)Serum
 cokecosmetics;(Cheat)Horrible Cosmetx
-mistuser;(Cheat)Mist/Spectral
+mistuser;(Cheat)Mist
+grate;(Cheat)Spectral
 untitled;(Cheat)Untitled
 silliness;(Cheat)Silliness
 eyerock reborn;(Cheat)Eyerock Reborn
