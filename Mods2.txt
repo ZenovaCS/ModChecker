@@ -1,21 +1,21 @@
-odcam|Orion Drift Camera
-ic|Input Camera v{0}
-spankyui|SpankyUI
-gp|GorillaPad v{0}
-hp_left|(Dev)HoldablePad
-gc|(Dev)GorillaCraft v{0}
-gs|(Dev)GorillaShirts v[0} [EXTREMELY OUTDATED]
-shirtversion|(Dev)GorillaShrits v{0} [VERY OUTDATED]
-gorillashirts|(Dev)GorillaShirts v{0} [OUTDATED]
-gorillashirtsfeb26|(Dev)GorillaShirts v{0}
-infowatchversion|(Dev)GorillaInfoWatch v{0} [OUTDATED]
-infowatch|(Dev)GorillaInfoWatch v{0}
-gorillachatbox|(Dev)GorillaChatBox
-github.com/zlothy29iq/roomutils-iw|(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
-github.com/zlothy29iq/zloth-recroomrig|(Zlothy)RecRoomRig v{0}
-github.com/zlothy29iq/monkeclick|(Zlothy)MonkeClick v{0}
-github.com/zlothy29iq/monkeclick-ci|(ZLothy)MonkeClick v{0} [ComputerInterface]
-github.com/zlothy29iq/toomuchinfo|(Zlothy)TooMuchInfo v{0}
+odcam;Orion Drift Camera
+ic;Input Camera v{0}
+spankyui;SpankyUI
+gp;GorillaPad v{0}
+hp_left;(Dev)HoldablePad
+gc;(Dev)GorillaCraft v{0}
+gs;(Dev)GorillaShirts v[0} [EXTREMELY OUTDATED]
+shirtversion;(Dev)GorillaShrits v{0} [VERY OUTDATED]
+gorillashirts;(Dev)GorillaShirts v{0} [OUTDATED]
+gorillashirtsfeb26;(Dev)GorillaShirts v{0}
+infowatchversion;(Dev)GorillaInfoWatch v{0} [OUTDATED]
+infowatch;(Dev)GorillaInfoWatch v{0}
+gorillachatbox;(Dev)GorillaChatBox
+github.com/zlothy29iq/roomutils-iw;(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
+github.com/zlothy29iq/zloth-recroomrig;(Zlothy)RecRoomRig v{0}
+github.com/zlothy29iq/monkeclick;(Zlothy)MonkeClick v{0}
+github.com/zlothy29iq/monkeclick-ci;(ZLothy)MonkeClick v{0} [ComputerInterface]
+github.com/zlothy29iq/toomuchinfo;(Zlothy)TooMuchInfo v{0}
 github.com/zlothy29iq/monkerealismv(Zlothy)MonkeRealism v{0}
 github.com/zlothy29iq/gorillamediadisplay|(Zlothy)GorillaMediaDisplay v{0}
 dingus|(Zlothy)Networked Maxwell
