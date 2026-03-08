@@ -110,7 +110,7 @@ hidden menu;(Cheat)Hidden
 oblivion;(Cheat)Oblivion
 oblivionuser;(Cheat)Oblivion
 phantom;(Cheat)Phantom
-\n\\hoo\\0\\89\\4\\32\r243\t\43\\|]]\[]\|||||=-5-21``~~~`~./..,,nvb FIKWNI-=-6=4_\[]{}..//</)(*&^$%@!$#*(#@&%*yt4i{}]{\}}{}{}}\n\0\b\n;(Cheat)Resurgence
+․;(Cheat)Resurgence
 slientcc;(Cheat)SlientCC
 renwo;(Cheat)Renwo
 fysmenu;(Cheat)FYS Menu
