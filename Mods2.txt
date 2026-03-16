@@ -4,8 +4,6 @@ spankyui;SpankyUI
 gp;GorillaPad v{0}
 hp_left;(Dev)HoldablePad
 gc;(Dev)GorillaCraft v{0}
-gs;(Dev)GorillaShirts v[0} [EXTREMELY OUTDATED]
-shirtversion;(Dev)GorillaShrits v{0} [VERY OUTDATED]
 gorillashirts;(Dev)GorillaShirts v{0} [OUTDATED]
 gorillashirtsfeb26;(Dev)GorillaShirts v{0}
 infowatchversion;(Dev)GorillaInfoWatch v{0} [OUTDATED]
@@ -139,7 +137,6 @@ fys epic face tracking shit mod;FYS Eye Tracking
 ghosteliteuser;Ghost Elite Menu
 dark;Dark (idk what this is)
 vantamenu;(Cheat)Vanta
-hassexmod;<color=#bf54e3>sex mod (wtf is wrong with you)</color>
 haslegmod;Leg Mod
 nexussize;(Cheat)Prime (shit menu)
 atlas;(Cheat)Atlas
