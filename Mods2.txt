@@ -156,3 +156,4 @@ euphoric;(Cheat)Euphoric
 spoofer by pulse;Property Spoofy by Pulse
 envision build transform flourish;(Cheat)Envision
 https://chqser.lol/;(Cheat)Chqser
+chud menu;(Cheat)Chud
