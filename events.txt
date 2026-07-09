@@ -3,5 +3,3 @@ seralyth
 dtasloi free
 singularity
 burty's tuff menu
-bark
-wlksimulator
