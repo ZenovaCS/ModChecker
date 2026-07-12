@@ -73,7 +73,7 @@ a mod that has to do with network stuff in grate (it won't work for most people)
 custom property setter;CustomPropertySetter
 mediapad;Media Pad
 gorillacinema;Gorilla Cinema
-walksimulator;(Zlothy)WalkSimulator [Upheld by Zlothy]
+walksimulator;(Zlothy)WalkSimulator [Upheld by Zlothy];https://git.hamburbur.org/ZlothY/WalkSimulator
 deetags;DeeTags
 kingbingus.oculusreportmenu;OculusReportMenu
 isusingmeta;MetaReportMenu
