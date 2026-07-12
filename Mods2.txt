@@ -5,9 +5,9 @@ gp;GorillaPad v{0}
 hp_left;(Dev)HoldablePad
 gc;(Dev)GorillaCraft v{0}
 gorillashirts;(Dev)GorillaShirts v{0} [OUTDATED]
-gorillashirtsfeb26;(Dev, https://github.com/developer9998/GorillaShirts)GorillaShirts v{0}
+gorillashirtsfeb26;(Dev)GorillaShirts v{0};https://github.com/developer9998/GorillaShirts
 infowatchversion;(Dev)GorillaInfoWatch v{0} [OUTDATED]
-infowatch;(Dev, https://github.com/developer9998/GorillaInfoWatch)GorillaInfoWatch v{0}
+infowatch;(Dev)GorillaInfoWatch v{0};https://github.com/developer9998/GorillaInfoWatch
 gorillachatbox;(Dev)GorillaChatBox
 github.com/zlothy29iq/roomutils-iw;(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
 github.com/zlothy29iq/zloth-recroomrig;(Zlothy)RecRoomRig v{0}
@@ -21,7 +21,7 @@ customskin;(Dev)Custom Skin v{0}
 gpronouns;(Dev)Gorilla Pronouns v{0}
 gfaces;(Dev)GorillaFaces v{0}
 hasgface;GorillaFaces2?
-monkephone;(Dev)MonkePhone v{0}
+monkephone;(Dev)MonkePhone v{0};https://github.com/developer9998/monkephone
 pmversion;(Dev)PlayerModel v{0}
 gtrials;GorillaTrials v{0}
 bp15's lobby gui;(BP15)bp15s lobby GUI
