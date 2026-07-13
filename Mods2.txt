@@ -105,7 +105,7 @@ hidden menu;(Cheat)Hidden
 oblivion;(Cheat)Oblivion
 oblivionuser;(Cheat)Oblivion
 phantom;(Cheat)Phantom
-stοр uѕіոɡ mοԁѕ tһаt рrοmοtе һаrаѕѕmеոt;(Cheat)Resurgence
+Ѕtοр uѕіոɡ mοԁѕ tһаt рrοmοtе һаrаѕѕmеոt;(Cheat)Resurgence
 slientcc;(Cheat)SlientCC
 renwo;(Cheat)Renwo
 fysmenu;(Cheat)FYS Menu
