@@ -2,42 +2,37 @@ odcam;Orion Drift Camera
 ic;Input Camera v{0}
 spankyui;SpankyUI
 gp;GorillaPad v{0}
-hp_left;(Dev)HoldablePad
-gc;(Dev)GorillaCraft v{0}
-gorillashirts;(Dev)GorillaShirts v{0} [OUTDATED]
+hp_left;(Dev)HoldablePad;https://github.com/developer9998/holdablepad
+gc;(Dev)GorillaCraft v{0};https://github.com/developer9998/gorillacraft
 gorillashirtsfeb26;(Dev)GorillaShirts v{0};https://github.com/developer9998/GorillaShirts
-infowatchversion;(Dev)GorillaInfoWatch v{0} [OUTDATED]
 infowatch;(Dev)GorillaInfoWatch v{0};https://github.com/developer9998/GorillaInfoWatch
-gorillachatbox;(Dev)GorillaChatBox
-github.com/zlothy29iq/roomutils-iw;(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon]
+gorillachatbox;(Dev)GorillaChatBox;https://github.com/developer9998/gorillachatbox
+github.com/zlothy29iq/roomutils-iw;(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon];github.com/zlothy29iq/roomutils-iw
 github.com/zlothy29iq/zloth-recroomrig;(Zlothy)RecRoomRig v{0}
-github.com/zlothy29iq/monkeclick;(Zlothy)MonkeClick v{0}
-github.com/zlothy29iq/monkeclick-ci;(ZLothy)MonkeClick v{0} [ComputerInterface]
-github.com/zlothy29iq/toomuchinfo;(Zlothy)TooMuchInfo v{0}
-github.com/zlothy29iq/monkerealism;(Zlothy)MonkeRealism v{0}
-github.com/zlothy29iq/gorillamediadisplay;(Zlothy)GorillaMediaDisplay v{0}
-dingus;(Zlothy)Networked Maxwell
-customskin;(Dev)Custom Skin v{0}
-gpronouns;(Dev)Gorilla Pronouns v{0}
-gfaces;(Dev)GorillaFaces v{0}
+github.com/zlothy29iq/monkeclick;(Zlothy)MonkeClick v{0};https://github.com/baggZ-idk/MonkeClick
+github.com/zlothy29iq/monkeclick-ci;(ZLothy)MonkeClick v{0} [ComputerInterface];github.com/zlothy29iq/monkeclick-ci
+github.com/zlothy29iq/toomuchinfo;(Zlothy)TooMuchInfo v{0};github.com/zlothy29iq/toomuchinfo
+github.com/zlothy29iq/monkerealism;(Zlothy)MonkeRealism v{0};github.com/zlothy29iq/monkerealism
+github.com/zlothy29iq/gorillamediadisplay;(Zlothy)GorillaMediaDisplay v{0};https://github.com/zlothy29iq/gorillamediadisplay
+dingus;(Zlothy)Networked Maxwell;https://github.com/ZlothY29IQ/dingus
+customskin;(Dev)Custom Skin v{0};https://github.com/developer9998/GorillaCustomSkin
+gpronouns;(Dev)Gorilla Pronouns v{0};https://github.com/developer9998/gorillapronouns
+gfaces;(Dev)GorillaFaces v{0};https://github.com/developer9998/GorillaFaces/
 hasgface;GorillaFaces2?
 monkephone;(Dev)MonkePhone v{0};https://github.com/developer9998/monkephone
-pmversion;(Dev)PlayerModel v{0}
-gtrials;GorillaTrials v{0}
+pmversion;(Dev)PlayerModel v{0};https://github.com/developer9998/playermodel/
+gtrials;GorillaTrials v{0};https://github.com/lapisgit/gorillatrials
 bp15's lobby gui;(BP15)bp15s lobby GUI
 disconnect mod;(BP15)Disconnect Mod
 gorillaplayeriddisplay;(BP15)GorillaPlayerIDDisplay
 pcneckmovement;(BP15)PCNeckMovement
 fusioned;Fusioned v{0}
 equippedweapon;Weapon Pack v{0}
-grateversion;Grate v{0}
 msp;MonkeSmartPhone
 competitiveplusplus;Competitive++ v{0}
 gorillawatch;GorillaWatch v{0}
 gorillastats;GorillaStats
 using gorilladrift;GorillaDrift
-cheese is gouda;(Han)WhoIsCheating
-whoisthatmonke version;(Han)WhoIsThatMonke v{0}
 monkehavocversion;MonkeHavoc v{0}
 carname;GorillaVehicles
 tictactoe;TicTacToe
