@@ -6,6 +6,7 @@ hp_left;(Dev)HoldablePad;https://github.com/developer9998/holdablepad
 gc;(Dev)GorillaCraft v{0};https://github.com/developer9998/gorillacraft
 gorillashirtsfeb26;(Dev)GorillaShirts v{0};https://github.com/developer9998/GorillaShirts
 infowatch;(Dev)GorillaInfoWatch v{0};https://github.com/developer9998/GorillaInfoWatch
+barkversion;(Dev)Bark v{0};https://github.com/developer9998/bark
 gorillachatbox;(Dev)GorillaChatBox;https://github.com/developer9998/gorillachatbox
 github.com/zlothy29iq/roomutils-iw;(Zlothy)RoomUtils v{0} [GorillaInfoWatch Addon];github.com/zlothy29iq/roomutils-iw
 github.com/zlothy29iq/zloth-recroomrig;(Zlothy)RecRoomRig v{0}
