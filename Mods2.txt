@@ -156,3 +156,4 @@ https://chqser.lol/;(Cheat)Chqser
 chud menu;(Cheat)Chud
 cfa;(Cheat)Console For All
 juul_v;(Cheat)Juul v{0}
+seralyth networkmenu;(Cheat)Seralyth Remake
