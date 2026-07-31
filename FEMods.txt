@@ -19,4 +19,4 @@ currentsong|GM
 bingusnametags++|BN++ v{0}
 monkeye mod checker|MEMC v{0}
 walksimulator|ZWS {0}
-thatutilspadfree|TUP
+thatutilspadfree|TUPF
