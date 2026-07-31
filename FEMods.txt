@@ -1,20 +1,20 @@
-gc|[<color=#FFFFFF>GCraft</color> v{0}]
-gorillashirtsfeb26|[<color=#FFFFFF>GSH</color> v{0}]
-infowatch|[<color=#FFFFFF>GIW</color> v{0}]
-gorillachatbox|[<color=#FFFFFF>GCB</color>]
-dingus|[<color=#340089>NM</color>]
-gpronouns|[<color=#FFFFFF>GPR</color> v{0}]
-gfaces|[<color=#FFFFFF>GF</color> v{0}]
-monkephone|[<color=#FFFFFF>MP</color> v{0}]
-pmversion|[<color=#FFFFFF>PM</color> v{0}]
-gtrials|[<color=#00A0FF>GTRIALS</color> v{0}]
-grateversion|[<color=#00A0FF>GRATE</color> v{0}]
-bark|[<color=#FFFFFF>BARK</color> v{0}]
-barkversion|[<color=#00A0FF>S-BARK</color> v{0}]
-fps-nametags for zlothy|[<color=#340089>NFZ</color> v{0}]
-dtaoi|[<color=#340089>DTAOI</color>]
-dtasloi|[<color=#00A0FF>DTASLOI</color>]
-gphysversion|[<color=#00A0FF>GPHYS</color> v{0}]
-currentsong|[<color=#00A0FF>GM</color>]
-bingusnametags++|[<color=#00A0FF>BN++</color> v{0}]
-monkeye mod checker|[<color=#00A0ff>MEMC</color> v{0}]
+gc|GCRAFT v{0}
+gorillashirtsfeb26|GSH v{0}
+infowatch|GIW v{0}
+gorillachatbox|GCB
+dingus|NM
+gpronouns|GPR v{0}
+gfaces|GF v{0}
+monkephone|MP v{0}
+pmversion|PM v{0}
+gtrials|GTRIALS v{0}
+grateversion|GRATE v{0}
+bark|BARK v{0}
+barkversion|S-BARK v{0}
+fps-nametags for zlothy|NFZ v{0}
+dtaoi|DTAOI
+dtasloi|DTASLOI
+gphysversion|GPHYS v{0}
+currentsong|GM
+bingusnametags++|BN++ v{0}
+monkeye mod checker|MEMC v{0}
