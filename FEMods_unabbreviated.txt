@@ -18,5 +18,5 @@ gphysversion|GPhys v{0}
 currentsong|GorillaMedia
 bingusnametags++|BingusNametags++ v{0}
 monkeye mod checker|MonkeEyeModChecker v{0}
-walksimulator|ZlothyWalkSimulator {0}
+walksimulator|ZlothyWalkSimulator{0}
 thatutilspadfree|ThatUtilsPadFree
